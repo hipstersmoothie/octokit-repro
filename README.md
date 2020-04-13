@@ -1,0 +1,3 @@
+```sh
+yarn && yarn build
+```
